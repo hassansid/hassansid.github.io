@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Five Classical Computer Vision Techniques!
 ---
 
-Five Classical Computer Vision Techniques
+Prologue
 
 Hi. In this blog post I will be mainly talking about five main areas of image processing and computer vision. These techniques will get you started with computer vision and helps you make your first image processing project.
 
