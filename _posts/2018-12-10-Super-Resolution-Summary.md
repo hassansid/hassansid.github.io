@@ -43,7 +43,7 @@ This image is expected to be similar to the original image.
 
 These steps are depicted in the following picture:
 
-*Put Image Here*
+![alt text](https://imgur.com/a/hMs3SV9 "SRCNN")
 
 #### Experiments
 
