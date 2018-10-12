@@ -43,7 +43,7 @@ This image is expected to be similar to the original image.
 
 These steps are depicted in the following picture:
 
-![alt text](https://imgur.com/a/hMs3SV9 "SRCNN")
+![alt text](https://hassanms.com/images/sr.png "SRCNN")
 
 #### Experiments
 
