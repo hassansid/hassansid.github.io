@@ -3,7 +3,7 @@ layout: post
 title: Image Super Resolution using Deep Convolutional Networks
 ---
 
-# Overview
+#### Overview
 
 Recovering a high-resolution image from a single low-resolution image – Single Image Super-Resolution – is one of the classical problems
 in computer vision. The single-image super resolution algorithms can be categorized into four types – examples-based methods, predictions
@@ -26,7 +26,7 @@ the low- and high-resolution images, with little pre/post processing beyond the 
 This relationship provides a guidance for the design of the network structure.
 3.	Deep learning is useful in the classical computer vision problem of super-resolution, and can achieve good quality and speed.
 
-# SRCNN
+#### SRCNN
 
 There are three operations to be performed for the method to work: Patch extraction and representation, Non-linear mapping and 
 Reconstruction.
@@ -45,7 +45,7 @@ These steps are depicted in the following picture:
 
 *Put Image Here*
 
-# Experiments
+#### Experiments
 
 The authors first investigate the impact of using different datasets on the model performance. Then they explore different architecture 
 designs of the network, and study the relations between super-resolution performance and factors like depth, number of filters, and 
