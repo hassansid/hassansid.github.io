@@ -6,7 +6,7 @@ require "jekyll"
 
 # Change your GitHub reponame
 GITHUB_REPONAME = "hassansid/hassansid.github.io"
-GITHUB_REPO_BRANCH = "gh-pages"
+GITHUB_REPO_BRANCH = ""
 
 namespace :site do
   desc "Generate blog files"
