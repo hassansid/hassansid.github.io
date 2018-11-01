@@ -2,14 +2,13 @@
 layout: page
 title: About
 permalink: /about/
+slug: about
 ---
 
-Hi! I am passionate about deep learning and its applications in computer vision and remote sensing. Also, I enjoy making blazing fast programs using CUDA that harness the power of GPUs. When I am not building programs, I like to write about my interests.  
+This is a Jekyll theme. You can find out more information about customizing your theme Jekyll, as well as basic documentation Jekyll use in [jekyllrb.com](http://jekyllrb.com/).
 
-### More Information
+You can find the source code for this theme: [github.com/nandomoreirame/zetsu]({{ site.github }})
 
-A place to include any other types of information that you'd like to include about yourself.
+You can find the source code in Jekyll [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
 
-### Contact me
-
-[hassansid95@gmail.com](mailto:hassansid95@gmail.com)
+Theme developed by: [{{ site.author.name }}]({{ site.author.url }})
